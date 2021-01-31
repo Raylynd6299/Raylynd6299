@@ -1,6 +1,21 @@
-# Bienvenido a mi perfil!
+# Hola, Soy Ratmundo #
 
-Mi nombre es Raymundo Pulido Bejarano
+Soy estudiante de Ingenieria en sistemas Computacionales, me emociona a donde se movera el mundo de la tecnologia, por lo que continuamente voy aprendiendo nuevas habilidades y el uso de nuevas herramientas, para poder encontrar nuevas oportunidades a explorar.
+
+### Lenguajes ###
++ ***Python***
++ ***C / C++ ***
++ ***Java ***
++ ***Go ***
++ ***JavaScript***
+
+### Frameworks / Bibliotecas ###
++ Pytorch
++ Keras
++ TensorFlow
++ React
++ Flask
+
+MicroServices y C-S (REST)
 
 ![Stats-1](https://github-readme-stats.vercel.app/api?username=Raylynd6299&count_private=true&theme=darcula&show_icons=true)
-![Stats-2](https://github-readme-stats.vercel.app/api/top-langs/?username=Raylynd6299&theme=darcula&layout=compact&hide=roff,Tcl,css,html&langs_count=10)
