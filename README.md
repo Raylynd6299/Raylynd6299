@@ -4,9 +4,9 @@ Soy estudiante de Ingeniería en sistemas Computacionales, me emociona a donde s
 
 ### Lenguajes ###
 + ***Python***
-+ ***C / C++ ***
-+ ***Java ***
-+ ***Go ***
++ ***C / C++***
++ ***Java***
++ ***Go***
 + ***JavaScript***
 
 ### Frameworks / Bibliotecas ###
