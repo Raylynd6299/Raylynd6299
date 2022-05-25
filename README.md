@@ -1,4 +1,4 @@
-# Hola, Soy Ratmundo #
+# Hola, Soy Raymundo #
 
 Soy estudiante de Ingeniería en sistemas Computacionales, me emociona a donde se moverá el mundo de la tecnología, por lo que continuamente voy aprendiendo nuevas habilidades y el uso de nuevas herramientas, para poder encontrar nuevas oportunidades a explorar.
 
