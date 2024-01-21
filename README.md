@@ -2,7 +2,7 @@
 ¡Si estás viendo esto, Hola!
 Espero que encuentres algo interesante y, si algo te sirve, disfrútalo.
 
-Un poco de contexto, me llamo Raymundo Pulido, soy un ingeniero de Software, egresado de ESCOM - IPN, México. Me gusta mucho investigar en la tecnología en general, software, hardware, etc.
+Un poco de contexto, me llamo Raymundo Pulido, soy un ingeniero de Software, ya con más de 3 años de experiencia trabajando en una YC Company, egresado de ESCOM - IPN, México. Me gusta mucho investigar en la tecnología en general, software, hardware, etc.
 Prácticamente, cualquier cosa interesante, seguramente esté leyendo, buscando o aprendiéndola. 
 
 Actualmente, no subo mucho mis repos pero se intentará.
