@@ -1,4 +1,4 @@
-# Hola, Soy Ray#
+# Hola, Soy Ray
 ¡Si estás viendo esto, Hola!
 Espero que encuentres algo interesante y, si algo te sirve, disfrútalo.
 
