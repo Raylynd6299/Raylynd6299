@@ -12,6 +12,13 @@
 
 ---
 
+## 🌐 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/raymundo-pulido-bejarano)  
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/raypblynd)
+
+---
+
 ## 🛠️ Tech Stack
 
 **Languages & Frameworks**  
@@ -25,14 +32,20 @@
 
 ---
 
+<p align="center">
+  <img alt="GitHub Snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+</p>
+
+---
+
 ## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Raylynd6299&theme=radical&show_icons=true&hide_border=false&count_private=true" alt="Raymundo's GitHub Stats" />
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Raylynd6299&theme=radical&hide_border=false" alt="GitHub Streak"/>
-  <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raylynd6299&theme=radical&layout=compact&hide_border=false" alt="Top Languages"/>
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Raylynd6299&theme=radical&hide_border=false" alt="GitHub Streak"/>
 </p>
 
 ---
@@ -51,19 +64,6 @@
   <img src="https://github-contributor-stats.vercel.app/api?username=Raylynd6299&limit=5&theme=radical&combine_all_yearly_contributions=true" />
 </p>
 
----
 
-## 🌐 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/raymundo-pulido-bejarano)  
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/raypblynd)
 
----
-
-<p align="center">
-  <img alt="GitHub Snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
-</p>
-
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=Raylynd6299&icon=0&color=1" />
-</p>
